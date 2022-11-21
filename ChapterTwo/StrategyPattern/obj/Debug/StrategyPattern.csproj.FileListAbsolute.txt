@@ -1,0 +1,10 @@
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.csproj.AssemblyReference.cache
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.Client.resources
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.Properties.Resources.resources
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.csproj.GenerateResource.cache
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwo\StrategyPattern\obj\Debug\StrategyPattern.pdb
