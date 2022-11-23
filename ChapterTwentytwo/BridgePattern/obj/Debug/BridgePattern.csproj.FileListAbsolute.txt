@@ -1,0 +1,7 @@
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\bin\Debug\BridgePattern.exe
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\obj\Debug\BridgePattern.csproj.AssemblyReference.cache
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\obj\Debug\BridgePattern.exe
+D:\MyCode\c++Code\DaHuaSheJiMoShi\DaHuaSheJiMoShi\ChapterTwentytwo\BridgePattern\obj\Debug\BridgePattern.pdb
